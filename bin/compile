@@ -1,4 +1,7 @@
 #! /bin/sh
 
 ls -lahR
+
+./app/af-app-deployer
+
 exit 0
