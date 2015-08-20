@@ -1,2 +1,5 @@
 #! /bin/sh
+
+ls -lah
+
 exit 0
