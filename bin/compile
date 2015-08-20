@@ -2,6 +2,6 @@
 
 ls -lahR
 
-./app/af-app-deployer -configFile ./app/deployConfig.json
+./app/af-app-deployer -configFile ./app/deployerConfig.json
 
 exit 0
